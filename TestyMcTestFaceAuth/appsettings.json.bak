@@ -1,0 +1,16 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "ConnectionString": {
+    "TestyMCTestFaceDB": "server=galcompsqlserver.database.windows.net;database=TestyMcTestFace;User ID=TestyMcTestFace;password=T3styMcT3stFace20!9;"
+  },
+  "AllowedHosts": "*",
+  "Google": {
+    "ClientID": "908472570332-4e9q4uf6hdsmejq9aa4romktlmpbbaeo.apps.googleusercontent.com",
+    "ClientSecret": "m_aiFUN8QugCh4boHs62hPOX"
+  }
+
+}
